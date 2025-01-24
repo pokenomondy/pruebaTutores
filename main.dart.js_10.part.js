@@ -1,8 +1,8 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
-a[b][c].push({p:"main.dart.js_13",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
+a[b][c].push({p:"main.dart.js_10",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
-cZx(){return new B.Bb(null)},
+cZw(){return new B.Bb(null)},
 Bb:function Bb(d){this.a=d},
 awp:function awp(d,e,f){var _=this
 _.d=d
@@ -159,7 +159,7 @@ v.w.fO(0,r)}m=v.x
 m===$&&A.a()
 if((m.b&4)===0){m=v.c
 m.toString
-q=v.e.nf(m)
+q=v.e.ng(m)
 v.x.fO(0,q)}m=v.y
 m===$&&A.a()
 if((m.b&4)===0){m=v.c
@@ -327,7 +327,7 @@ k=A.b7(d,!1,y._)
 j=l.r
 i=v.k4
 h=v.ch
-g=A.V(A.ay(h),A.aT(h),A.bR(h),A.cM(h),A.cX(h),0,0,0)
+g=A.V(A.ay(h),A.aT(h),A.bS(h),A.cM(h),A.cX(h),0,0,0)
 h=v.k4
 h.toString
 u=v.f
@@ -361,12 +361,12 @@ return A.h(new A.q7(A.rN()).y3(v.k2,o,m,s),$async$zm)
 case 10:if(!v.id)if(k.a.dx)v.a1A(m,o)
 v.bDz()
 j=j.h(p,"message")
-A.aK()
+A.aH()
 n.fw(j,"La operaci\xf3n salio exitosa")
 x=5
 break
 case 6:j=j.h(p,"message")
-A.aK()
+A.aH()
 n.ho(0,j,"Error")
 case 5:return A.m(null,w)}})
 return A.n($async$zm,w)},
@@ -376,7 +376,7 @@ var $async$a0z=A.k(function(e,f){if(e===1){u=f
 x=v}while(true)switch(x){case 0:p=new A.ata(A.rI())
 v=3
 x=6
-return A.h(p.K8(d,t.k2,t.f.a.a,!0),$async$a0z)
+return A.h(p.K7(d,t.k2,t.f.a.a,!0),$async$a0z)
 case 6:s=f
 t.k3.B2(0,"Delta actualizado: "+A.j(s))
 v=1
@@ -421,8 +421,8 @@ g.toString
 x=2
 return A.h(new A.alU().ZX(g,t.a.a,f),$async$a1A)
 case 2:e=a3
-A.aK()
-A.aK()
+A.aH()
+A.aH()
 new A.d6(d).fw("La operaci\xf3n salio exitosa","Exito - se envio "+A.j(e)+" mensajes")
 return A.m(null,w)}})
 return A.n($async$a1A,w)},
@@ -447,7 +447,7 @@ s=u.fx
 r=u.c
 r.toString
 x=7
-return A.h(p.Rj(t,s,r),$async$Rn)
+return A.h(p.Ri(t,s,r),$async$Rn)
 case 7:q=f
 A.am("se retorna la folderUrl "+q)
 v=q
@@ -464,7 +464,7 @@ bDz(){this.B(new B.bLg(this))},
 TZ(d,e){var x=this,w=null,v=A.a2(w,x.zL(),C.k,w,w,w,w,w,w,new A.a4(0,10,0,0),w,w,w,w),u=y.p,t=A.a2(w,A.a7(A.b([A.bN(new A.an(w,w,A.hG(!0,C.aF,!1,C.y,A.hH(),x.y,w,w,C.aU,1,new A.at(C.aj,w,w,A.aS(20),w,w,w,C.q),C.u,!0,w,!0,w,!1,w,w,w,w,w,w,w,w,w,w,w,w,!1,"\u2022",w,w,w,w,w,C.bM,d,w,w,C.ap,!1,w,!0,w,C.b5,w,w,C.aZ,C.aX,w,w,w,w,w,w,w,C.ap,C.C,w,C.bj,w,w,w),w),1)],u),C.f,C.U,C.h,w),C.k,w,w,w,w,w,w,new A.a4(0,10,0,0),w,w,w,w),s=x.a.c
 return A.a6(A.b([v,t,A.cqi(x.k2,s,s,x.go,new B.bLl(),!1,"ADMIN")],u),C.f,w,C.i,C.h,C.l)},
 zL(){var x=this,w=null,v=A.bB(),u=A.aA(),t=x.ch
-return A.a6(A.b([A.a2(w,A.bv(w,new A.rt(v,u).qv(""+A.bR(t)+"/"+A.aT(t)+"/"+A.ay(t),x.a.c),C.u,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.bLj(x),w,w,w,w,w,w),C.k,w,w,w,w,w,w,new A.a4(0,10,0,0),w,w,w,w),A.a2(w,A.bv(w,new A.rt(A.bB(),A.aA()).qv(A.bH("hh:mm  a",w).aV(x.ch),x.a.c),C.u,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.bLk(x),w,w,w,w,w,w),C.k,w,w,w,w,w,w,new A.a4(0,10,0,0),w,w,w,w)],y.p),C.f,w,C.i,C.h,C.l)}}
+return A.a6(A.b([A.a2(w,A.bv(w,new A.rt(v,u).qv(""+A.bS(t)+"/"+A.aT(t)+"/"+A.ay(t),x.a.c),C.u,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.bLj(x),w,w,w,w,w,w),C.k,w,w,w,w,w,w,new A.a4(0,10,0,0),w,w,w,w),A.a2(w,A.bv(w,new A.rt(A.bB(),A.aA()).qv(A.bH("hh:mm  a",w).aV(x.ch),x.a.c),C.u,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new B.bLk(x),w,w,w,w,w,w),C.k,w,w,w,w,w,w,new A.a4(0,10,0,0),w,w,w,w)],y.p),C.f,w,C.i,C.h,C.l)}}
 B.vs.prototype={
 O(){return new B.aD3()}}
 B.aD3.prototype={
@@ -690,7 +690,7 @@ return A.h(A.Rc(q,new A.d5(A.cM(t),A.cX(t))),$async$$0)
 case 3:s=e
 if(s==null){x=1
 break}q=r.ch
-r.B(new B.bLh(r,A.V(A.ay(q),A.aT(q),A.bR(q),s.a,s.b,0,0,0)))
+r.B(new B.bLh(r,A.V(A.ay(q),A.aT(q),A.bS(q),s.a,s.b,0,0,0)))
 case 1:return A.m(v,w)}})
 return A.n($async$$0,w)},
 $S:3}
@@ -745,7 +745,7 @@ $1(d){var x=null
 return new A.Q(C.d2,A.t(d,x,x,x,x,x,A.a5(x,x,C.ao,x,x,x,x,x,"Poppins",x,x,14,x,x,C.V,x,x,!0,x,x,x,x,x,x,x,x),x,x,x),x)},
 $S:201}
 B.bYB.prototype={
-$0(){A.bU(this.a,!1).dl(null)
+$0(){A.bR(this.a,!1).d6(null)
 return null},
 $S:0}
 B.bGL.prototype={
@@ -777,4 +777,4 @@ D.aiO=new A.a4(25,30,25,30)
 D.an0=new A.aU(984405,"MaterialIcons",null,!1)
 D.aQk=new A.b9("New solicitud",null,null,null,null,null,null,null,null,null,null,null)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_13",e:"endPart",h:b})})($__dart_deferred_initializers__,"3BrqQ4NxJlQUZgj4GxsrNUbvLBs=");
+a.eventLog.push({p:"main.dart.js_10",e:"endPart",h:b})})($__dart_deferred_initializers__,"E4fOfEQKPZUCO7MRirkXamW8Als=");
